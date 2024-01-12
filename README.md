@@ -2,9 +2,6 @@
 
 This project focuses on predicting breast cancer using various Machine Learning algorithms. It aims to provide accurate predictions for early detection.
 
-## Dataset
-The dataset used for this project can be found [here](). 
-
 ## Algorithms Used
 The prediction models were implemented using Logistic Regression, Decision Tree, Random Forest, Support Vector Classifier (SVC), k Nearest Neighbors, Gaussian Naive Bayes (GaussianNB).
 
